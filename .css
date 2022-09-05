@@ -1,0 +1,26 @@
+
+body{
+    padding: 100px;
+    padding-top: 0;
+}
+
+img {
+    margin-left: 450px;
+}
+
+p{
+    margin-left: 510px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.pbc{
+   border: 1px solid black;
+   border-radius: 2px;
+}
+
+
+.container {
+    background-color: rgb(235, 230, 230);
+}
+
